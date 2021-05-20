@@ -1,2 +1,2 @@
 # vm_ubuntu80
-linux
+리눅스linux
